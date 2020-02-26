@@ -1,0 +1,3 @@
+"_time","src_ip",Location,asn,"dest_ip","dest_host",signature,"signature_id","severity_id"
+1582308378,"1.2.3.4","South Africa",,"10.10.1.101","dmzserver-example.fake.data.com","SERVER-WEBAPP PHPUnit PHP remote code execution attempt",45749,1
+1582308378,"1.2.3.4","South Africa",,"10.10.1.101","dmzserver-example.fake.data.com","SERVER-WEBAPP PHPUnit PHP remote code execution attempt",45749,1

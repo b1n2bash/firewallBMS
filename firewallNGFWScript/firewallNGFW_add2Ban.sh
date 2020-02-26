@@ -8,6 +8,9 @@
 # Parse NGFW report into a list of IPs then send them to firewallNGFW_ban-update.py
 
 # CD to the location where the script is running (Necessary for Cronjob to run)
+	# Add a cronjob to execute this script depending on how frequently you wish for the
+	# feed to update.
+	
 # Execute script from one directory above to test this
 # cd <directory>/firewallNGFWScript
 

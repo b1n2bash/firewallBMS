@@ -1,5 +1,5 @@
 ### FirewallBMS
-## Firewall Backlist Management System designed to work with Cisco FMC and Splunk
+## Firewall Blacklist Management System designed to work with Cisco FMC and Splunk
 
 The firewallBMS program is a script-set written in a mixture of bash and python3 
 that allows the user to create/manage a custom Blacklist which bans malicious
